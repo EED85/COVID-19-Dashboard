@@ -1,8 +1,13 @@
 {
-	"folders": [
+    "folders": [
 		{
-			"path": "."
+			"path": "C:\\DEV\\git\\COVID-19-Dashboard"
+		},
+		{
+			"path": "C:\\DEV\\git\\CSSEGISandData\\COVID-19_web-data"
+		},
+		{
+			"path": "C:\\DEV\\git\\CSSEGISandData\\COVID-19"
 		}
-	],
-	"settings": {}
+	]
 }
