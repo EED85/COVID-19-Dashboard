@@ -41,6 +41,7 @@ This repo loads the following csv files from https://github.com/CSSEGISandData/C
 - Clone this Repository and open the Power Bi Template "COVID-19.pbit"
 - Refresh the Report to get latest Data (Home Ribbon)
     - you will be asked for authorisation, please choose anonymous
+- Save the Dashboard in the top directory of this repository
 It loads the Data via Power BI Service and sets up an customized Dashboard in Power BI.
 
 ### Refresh the Data
