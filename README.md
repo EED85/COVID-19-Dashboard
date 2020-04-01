@@ -4,6 +4,10 @@ This Dahboard replicates and extends the COVID-19 Dashboard by JHU and makes it 
 
 Please check the Terms of Use before reusing it.
 
+![Image of Yaktocat](https://github.com/EED85/COVID-19-Dashboard/blob/master/files/Screenshot%20COVID-19%20Dashboard.png)
+
+
+
 ## Data Source
 
 This repo loads the following csv files from https://github.com/CSSEGISandData/COVID-19 from the web-data branch
