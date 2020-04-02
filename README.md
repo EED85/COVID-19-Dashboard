@@ -20,19 +20,22 @@ This repo loads the following csv files from https://github.com/CSSEGISandData/C
 
 ### implemented
 
-- Continent Slicer
+- Additional slicer
+    - Continent Slicer
+    - relative Date Slicer
 - Imporved interactions
+- Drill Down to a Data Table for a Country_Region
+- Additional Measures
+    - Moving Average of Confirmed
+    - Moving Average of Confirmed Rate
+    - Death Rate
+    - Confirmed Doubling Time
 
 ### Ideas
 
 - Compare COVID-19 Spread between countries
 - Additional Measueres
-    - Death Rate
-    - Infection Rate
-    - Confirmed Moving Average
-    - ...
-- Drill through for Country Region
-- Time Slicer
+    - ....
 - Bookmarks
 - Quickinfos
 - ...
