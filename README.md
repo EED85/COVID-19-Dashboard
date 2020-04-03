@@ -46,8 +46,10 @@ This repo loads the following csv files from https://github.com/CSSEGISandData/C
 
 - Install the latest Power BI Desktop Version on your Windows PC
 - Clone this Repository and open the Power Bi Template "COVID-19.pbit"
-- Refresh the Report to get latest Data (Home Ribbon)
+- When openening, the Report will refresh automatically to get latest Data
     - you will be asked for authorisation, please choose anonymous
+    - You will get errors while the initial data-loading, if you do not have US as Regional settings set.
+        - Workaround : Set US as Regional Settings under "options" -> "Current File" -> "Regional settings"
 - Save the Dashboard in the top directory of this repository
 It loads the Data via Power BI Service and sets up an customized Dashboard in Power BI.
 
