@@ -65,6 +65,14 @@ It loads the Data via Power BI Service and sets up an customized Dashboard in Po
 - Configure the AUthorisation
 - Configure the Refresh Schedule 
 
+## Documentation
+
+You find further documentation in the corresponding folder [documentation](https://github.com/EED85/COVID-19-Dashboard/blob/master/documentation/measures.md)
+
+### Measures
+
+Please check 
+[measures.md](https://github.com/EED85/COVID-19-Dashboard/blob/master/documentation/measures.md)
 
 ## Terms of Use
 
