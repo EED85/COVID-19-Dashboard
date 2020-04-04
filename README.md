@@ -1,6 +1,8 @@
 # COVID-19-Dashboard
 
-This Dahboard replicates and extends the COVID-19 Dashboard by JHU and makes it available in Power BI Desktop 
+This Dahboard replicates and extends the COVID-19 Dashboard by JHU and makes it available in free of charge Software Power BI Desktop.
+
+Note, that publishing it to the web is not free. For more Information please visit the official Power BI website.
 
 Please check the Terms of Use before reusing it.
 
@@ -47,9 +49,7 @@ This repo loads the following csv files from https://github.com/CSSEGISandData/C
 - Install the latest Power BI Desktop Version on your Windows PC
 - Clone this Repository and open the Power Bi Template "COVID-19.pbit"
 - When openening, the Report will refresh automatically to get latest Data
-    - you will be asked for authorisation, please choose anonymous
-    - You will get errors while the initial data-loading, if you do not have US as Regional settings set.
-        - Workaround : Set US as Regional Settings under "options" -> "Current File" -> "Regional settings"
+    - you might be asked for authorisation, please choose anonymous
 - Save the Dashboard in the top directory of this repository
 It loads the Data via Power BI Service and sets up an customized Dashboard in Power BI.
 
@@ -60,6 +60,9 @@ It loads the Data via Power BI Service and sets up an customized Dashboard in Po
 - Just open the pbix file and refresh the data
 
 #### Power BI Service
+
+You need a Power Bi License in order to pubish this report
+in Power BI Service
 
 - Publish the Power Bi Desktop File to a workspace
 - Configure the AUthorisation
